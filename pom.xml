@@ -24,11 +24,11 @@
     </dependency>
     
     <!-- Update MySQL connector to latest -->
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-      <version>8.3.0</version>
-    </dependency>
+     <dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector-j</artifactId>
+    <version>9.4.0</version>
+</dependency>
     
     <!-- Update JUnit to latest version -->
     <dependency>
